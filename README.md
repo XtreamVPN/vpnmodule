@@ -27,8 +27,11 @@ Install module:
 5. Click Create a new product ( Choose other )
 
 Product Group: Choose group name that you create in number 3
+
 Product Name: Choose VPN Plans whatever you like
+
 Module: Choose xtreamvpn
+
 Finally click continue
 
 6. Click Pricing
