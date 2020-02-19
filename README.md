@@ -38,6 +38,8 @@ Choose billing option you like
 7. Click Module settings
 
 API URL: you need to login to www.xtreamvpn.com to get your api
+
+
 API Username: you also need to login to www.xtreamvpn.com to get your username api
 
 
